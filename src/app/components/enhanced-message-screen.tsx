@@ -105,7 +105,7 @@ export function EnhancedMessageScreen({ girlfriendName, onBack }: EnhancedMessag
                     <div className="flex justify-center mb-3">
                       <Heart className="w-8 h-8 text-red-500 fill-red-500 animate-pulse" />
                     </div>
-                    <h3 className="text-lg font-bold text-pink-700 mb-3">A Letter From My Heart</h3>
+                    <h3 className="text-lg font-bold text-pink-700 mb-3">A Letter From MKang</h3>
                   </div>
 
                   <div className="space-y-4 text-sm text-gray-700 leading-relaxed">
@@ -124,10 +124,10 @@ export function EnhancedMessageScreen({ girlfriendName, onBack }: EnhancedMessag
                       <p className="text-base font-bold text-purple-700 mb-2">
                          You are my greatest adventure and sweetest dream
                       </p>
-                      <p className="text-sm text-pink-600 font-semibold">Happy Birthday, bae ! 🌟💕</p>
+                      <p className="text-sm text-pink-600 font-semibold">Happy Birthday,my bae ! 🌟💕</p>
                     </div>
 
-                    <p className="text-right font-semibold text-pink-600 text-sm">With all my love, always ❤️</p>
+                    <p className="text-right font-semibold text-pink-600 text-sm">are is am ❤️</p>
                   </div>
                 </CardContent>
               </Card>
