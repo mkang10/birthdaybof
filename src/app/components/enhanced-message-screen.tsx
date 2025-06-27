@@ -113,7 +113,7 @@ export function EnhancedMessageScreen({ girlfriendName, onBack }: EnhancedMessag
 
                     <p>
                       On this special day, I find myself overwhelmed with gratitude for having you in my world. You are
-                      not just my girlfriend ; you are my best friend, and the love of my life.
+                      not just my girlfriend ; you are my homies, and the love of my life.
                     </p>
 
                     <p>
@@ -124,7 +124,7 @@ export function EnhancedMessageScreen({ girlfriendName, onBack }: EnhancedMessag
                       <p className="text-base font-bold text-purple-700 mb-2">
                          You are my greatest adventure and sweetest dream
                       </p>
-                      <p className="text-sm text-pink-600 font-semibold">Happy Birthday, my love! 🌟💕</p>
+                      <p className="text-sm text-pink-600 font-semibold">Happy Birthday, bae ! 🌟💕</p>
                     </div>
 
                     <p className="text-right font-semibold text-pink-600 text-sm">With all my love, always ❤️</p>
