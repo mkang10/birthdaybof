@@ -49,7 +49,7 @@ const albumPhotos = [
   {
     id: 5,
     src: "https://res.cloudinary.com/dvbbfcxdz/image/upload/f_auto,q_auto/IMG_2050_mtl84n.heic",
-    caption: "Chinh chinh thơm cho phát kk",
+    caption: "Chinh chinh thơm cho phát nữa",
     description: "ôi nhớ cô ấy ghê",
     date: "cà phê ngon vợ xing hết bài",
     location: "cà phê gì đó mà cô ấy xem được trên tóp top",
